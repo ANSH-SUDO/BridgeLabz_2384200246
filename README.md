@@ -55,7 +55,7 @@
 ---------------------------------------------------------------------------------------------------------------------
 06-02-2025
 
-  1. Is-a Relationship (Inheritance)
+  	1. Is-a Relationship (Inheritance)
 	2. Has-a Relationship (Association, Aggregation and Composition)
 	3. Design Problems (Class Digram, Object Digram, Sequence Digram)
 	4. Problem Statements on Has-a Relationship and Design Problems
