@@ -59,3 +59,39 @@
 	2. Has-a Relationship (Association, Aggregation and Composition)
 	3. Design Problems (Class Digram, Object Digram, Sequence Digram)
 	4. Problem Statements on Has-a Relationship and Design Problems
+ --------------------------------------------------------------------------------------------------------------------
+ 07-02-2025
+
+	1. Studied Types of Inheritance.
+ 	2. Practiced inheritance problems.
+  	3. Solved Assignment given by BridgeLabz.
+ --------------------------------------------------------------------------------------------------------------------
+ 09-02-2025
+
+ 	1. Studied Interface Concept and implementation.
+  	2. Studied Abstract Concept and implementation.
+   	3. Solved Assignment implementing both.
+---------------------------------------------------------------------------------------------------------------------
+ 10-02-2025
+
+ 	1. Studied Concept of LinkedList.
+  	2. Implementation of LinkedList using Array.
+   	3. Solved Assignment having various questions for LinkedList.
+---------------------------------------------------------------------------------------------------------------------
+12-02-2025
+
+	1. Stack Implementation using array, and linked list.
+ 	2. Queue Implementation using array, and linkedlist.
+  	3. Hashing Concepts using HashMap.
+   	4. Solved Assignment.
+---------------------------------------------------------------------------------------------------------------------
+14-02-2025
+
+  	1. Sorting Concepts
+   		1.1 Bubble Sort
+     		1.2 Insertion Sort
+       		1.3 Merge Sort
+	 	1.4 Quick Sort
+   	2. Solved Assignment of Sorting.
+  
+
