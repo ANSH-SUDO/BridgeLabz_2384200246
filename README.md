@@ -83,9 +83,10 @@
 	1. Stack Implementation using array, and linked list.
  	2. Queue Implementation using array, and linkedlist.
   	3. Hashing Concepts using HashMap.
-   	4. Solved Assignment.
+   	4. Hashing Functions.
+   	5. Solved Assignment.
 ---------------------------------------------------------------------------------------------------------------------
-14-02-2025
+13-02-2025
 
   	1. Sorting Concepts
    		1.1 Bubble Sort
@@ -93,5 +94,17 @@
        		1.3 Merge Sort
 	 	1.4 Quick Sort
    	2. Solved Assignment of Sorting.
+----------------------------------------------------------------------------------------------------------------------
+14-02-2025
+
+	1. Searching Concepts
+ 		1.1 Linear Search
+   		1.2 Binary Search
+     	2. Covered topics
+      		2.1 StringBuilder
+		2.2 StringBuffer
+  		2.3 FileReader
+    		2.4 InputStreamReader
+     	2. Solved Assignment.
   
 
