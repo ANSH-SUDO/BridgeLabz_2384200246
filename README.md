@@ -100,11 +100,11 @@
 	1. Searching Concepts
  		1.1 Linear Search
    		1.2 Binary Search
-     	2. Covered topics
+        2. Covered topics
       		2.1 StringBuilder
-		2.2 StringBuffer
+                2.2 StringBuffer
   		2.3 FileReader
     		2.4 InputStreamReader
-     	2. Solved Assignment.
+     	3. Solved Assignment.
   
 
