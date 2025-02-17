@@ -110,4 +110,9 @@
 -------------------------------------------------------------------------------------------------------------------------
 17-02-2025
 
-	1.
+	1. What is Runtime Analysis?
+        2. Understanding Big-O Notation
+        3. Time Complexity Analysis
+        4. Space Complexity Analysis
+        5. Best, Worst, and Average Case Complexities
+        6. Practical Guidelines for Optimizing C# Code
