@@ -116,3 +116,10 @@
         4. Space Complexity Analysis
         5. Best, Worst, and Average Case Complexities
         6. Practical Guidelines for Optimizing C# Code
+
+--------------------------------------------------------------------------------------------------------------------------
+18-02-2025
+
+	1. Collections in C#
+	2. Lambda Expressions
+	3. Solved Assignment for Generic Collection
