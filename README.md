@@ -120,6 +120,6 @@
 --------------------------------------------------------------------------------------------------------------------------
 18-02-2025
 
-	1. Collections in C#
+	1. Generics in C#
 	2. Lambda Expressions
 	3. Solved Assignment for Generic Collection
