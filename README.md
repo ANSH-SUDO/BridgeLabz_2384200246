@@ -123,3 +123,10 @@
 	1. Generics in C#
 	2. Lambda Expressions
 	3. Solved Assignment for Generic Collection
+
+ -------------------------------------------------------------------------------------------------------------------------
+ 20-02-2025
+
+ 	1. File Handling
+  	2. Streams in c#
+   	3. Solved Assignment
