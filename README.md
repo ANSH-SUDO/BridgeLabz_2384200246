@@ -59,13 +59,13 @@
 	2. Has-a Relationship (Association, Aggregation and Composition)
 	3. Design Problems (Class Digram, Object Digram, Sequence Digram)
 	4. Problem Statements on Has-a Relationship and Design Problems
- --------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
  07-02-2025
 
 	1. Studied Types of Inheritance.
  	2. Practiced inheritance problems.
   	3. Solved Assignment given by BridgeLabz.
- --------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------
  09-02-2025
 
  	1. Studied Interface Concept and implementation.
@@ -124,9 +124,25 @@
 	2. Lambda Expressions
 	3. Solved Assignment for Generic Collection
 
- -------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
  20-02-2025
 
  	1. File Handling
   	2. Streams in c#
    	3. Solved Assignment
+
+--------------------------------------------------------------------------------------------------------------------------
+21-02-25
+
+	1. Exception Handling (Try-Catch)
+	2. Throw Keyword
+	3. Nested Try-Catch Blocks
+	4. Solved Assignment
+
+--------------------------------------------------------------------------------------------------------------------------
+22-02-25
+
+	1. Regex Expressions
+	2. Nunit Working 
+	3. Writing Test Cases
+	4. Solved Assignment
