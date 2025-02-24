@@ -146,3 +146,11 @@
 	2. Nunit Working 
 	3. Writing Test Cases
 	4. Solved Assignment
+
+---------------------------------------------------------------------------------------------------------------------------
+24-02-25
+
+	1. Reflections Concept
+	2. Annotations Usage
+	3. Creating custom annotations
+	4. Solved Assignment
