@@ -154,3 +154,13 @@
 	2. Annotations Usage
 	3. Creating custom annotations
 	4. Solved Assignment
+
+---------------------------------------------------------------------------------------------------------------------------
+25-02-25
+
+	1. Introduction to CSV
+	2. Reading CSV Files
+	3. Writing CSV Files
+	4. Parsing CSV data
+	5. Data Validation
+	6. Solved Assignment
