@@ -164,3 +164,28 @@
 	4. Parsing CSV data
 	5. Data Validation
 	6. Solved Assignment
+
+---------------------------------------------------------------------------------------------------------------------------
+27-02-25
+	
+	1. Web APIs Concept
+	2. Creating Web API application
+	3. Implementing 3-tier Architecture
+
+--------------------------------------------------------------------------------------------------------------------------
+28-02-25
+
+	1. Type of HTTPS-requests
+	2. Type of HTTPS-status codes
+	3. Api Testing using Postman
+	4. Implementing GET and POST methods
+	5. Solved Assignment
+
+---------------------------------------------------------------------------------------------------------------------------
+01-03-25
+
+	1. ORM (Entity Framework) Concept
+	2. Creating database
+	3. Connecting DB with the web application 
+	4. Swagger and Logger Concept
+
